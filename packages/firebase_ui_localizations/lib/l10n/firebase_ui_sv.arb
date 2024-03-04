@@ -514,4 +514,19 @@
     "beskrivning": "Felmeddelande som antyder att det använda lösenordet är för svagt",
     "placeholders": {}
   }
+  "confirmDeleteAccountAlertTitle": "Confirm account deletion",
+  "@confirmDeleteAccountAlertTitle": {
+    "description": "Bekräfta radering av konto",
+    "placeholders": {}
+  },
+  "confirmDeleteAccountAlertMessage": "Are you sure you want to delete your account?",
+  "@confirmDeleteAccountAlertMessage": {
+    "description": "Är du säker på att du vill radera ditt konto?",
+    "placeholders": {}
+  },
+  "confirmDeleteAccountButtonLabel": "Ja, radera",
+  "@confirmDeleteAccountButtonLabel": {
+    "description": "Confirm delete account button label",
+    "placeholders": {}
+  }
 }

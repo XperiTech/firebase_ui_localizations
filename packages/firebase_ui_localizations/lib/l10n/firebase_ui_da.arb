@@ -514,4 +514,19 @@
     "description": "Fejlmeddelelse, der antyder, at den anvendte adgangskode er for svag",
     "placeholders": {}
   }
+  "confirmDeleteAccountAlertTitle": "Bekræft sletning af konto",
+  "@confirmDeleteAccountAlertTitle": {
+    "description": "Delete account confirmation dialog title",
+    "placeholders": {}
+  },
+  "confirmDeleteAccountAlertMessage": "Er du sikker på, at du vil slette din konto?",
+  "@confirmDeleteAccountAlertMessage": {
+    "description": "Delete account confirmation dialog message",
+    "placeholders": {}
+  },
+  "confirmDeleteAccountButtonLabel": "Ja, slet",
+  "@confirmDeleteAccountButtonLabel": {
+    "description": "Confirm delete account button label",
+    "placeholders": {}
+  }
 }
